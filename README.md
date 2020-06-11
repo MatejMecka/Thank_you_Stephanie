@@ -6,7 +6,8 @@ This is a website dedicated to Stephanie and the Google Open Source team who org
 
 To add a note create a new file in the `_winners` directory with the following filename: `{first-name}-{last-name}.md`. Copy this base template to it and replace the values with what you want it to say:
 
-```---
+```
+---
 name: Your name. First Name + Last Name
 org: Which Org did you participate in?
 ---
