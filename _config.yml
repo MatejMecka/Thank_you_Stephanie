@@ -1,5 +1,5 @@
 # Site settings
-title: Thank you for everything you've done for us Stephanie, Saranya, Maria, Tony, Radha, Christine, Mary, Christine
+title: Thank you for everything you've done for us Google Open Source Team
 email: your-email@domain.com
 url: https://example.github.io
 description: "Thank you for hosting Google Code-in for 10 years and spreading the word to teenagers like us the word about Open Source and how important it is."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: The Google Code-in 2018 winners 
+footer: The Google Code-in winners you met during the years
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
